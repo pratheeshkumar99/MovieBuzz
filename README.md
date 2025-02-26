@@ -54,10 +54,6 @@ We've built MovieBuzz with a modern and robust tech stack to ensure a smooth, fa
 ## 🤝 Contributing
 Found a bug or have an amazing feature idea? Contributions are welcome! Just fork the repo, create a new branch, and submit a pull request.
 
-## 📧 Contact
-Got questions? Feel free to reach out at [mehulparekh144@gmail.com](mailto:mehulparekh144@gmail.com).
-
----
 
 Dive in, explore, and have fun with MovieBuzz! 🍿✨
 
